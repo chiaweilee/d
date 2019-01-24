@@ -1,0 +1,7 @@
+{
+  "extends": [ "ali/react", "umi", "prettier" ],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}
